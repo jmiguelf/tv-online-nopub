@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <PublishUrlHistory>publish\|D:\Users\miguel\Documents\IntelliProtector.com\IntelliProtector\Accounts\Acc_b63a53e_%28miguel%29\Projects\Pt_25d3e91_%28OnLine TV%29\Modules\</PublishUrlHistory>
+    <InstallUrlHistory />
+    <SupportUrlHistory>http://miguelferreira.net/tv-online/</SupportUrlHistory>
+    <UpdateUrlHistory />
+    <BootstrapperUrlHistory />
+    <ErrorReportUrlHistory />
+    <FallbackCulture>en-US</FallbackCulture>
+    <VerifyUploadedFiles>false</VerifyUploadedFiles>
+  </PropertyGroup>
+</Project>
